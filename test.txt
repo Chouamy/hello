@@ -1,4 +1,1 @@
-'now
-in
-master
-haha' 
+after merge
